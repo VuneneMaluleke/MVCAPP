@@ -1,6 +1,6 @@
 ﻿namespace MVCAPP.Models
 {
-    public class Ignore
+    public class Program
     {
     }
 }
